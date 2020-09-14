@@ -1,0 +1,10 @@
+C:\Users\Nii-san\Desktop\JacobSmetanaCSTest1\JacobSmetanaTest1A\JacobSmetanaTest1A\bin\Debug\JacobSmetanaTest1A.exe.config
+C:\Users\Nii-san\Desktop\JacobSmetanaCSTest1\JacobSmetanaTest1A\JacobSmetanaTest1A\bin\Debug\JacobSmetanaTest1A.exe
+C:\Users\Nii-san\Desktop\JacobSmetanaCSTest1\JacobSmetanaTest1A\JacobSmetanaTest1A\bin\Debug\JacobSmetanaTest1A.pdb
+C:\Users\Nii-san\Desktop\JacobSmetanaCSTest1\JacobSmetanaTest1A\JacobSmetanaTest1A\obj\Debug\JacobSmetanaTest1A.csprojAssemblyReference.cache
+C:\Users\Nii-san\Desktop\JacobSmetanaCSTest1\JacobSmetanaTest1A\JacobSmetanaTest1A\obj\Debug\JacobSmetanaTest1A.frmMain.resources
+C:\Users\Nii-san\Desktop\JacobSmetanaCSTest1\JacobSmetanaTest1A\JacobSmetanaTest1A\obj\Debug\JacobSmetanaTest1A.Properties.Resources.resources
+C:\Users\Nii-san\Desktop\JacobSmetanaCSTest1\JacobSmetanaTest1A\JacobSmetanaTest1A\obj\Debug\JacobSmetanaTest1A.csproj.GenerateResource.cache
+C:\Users\Nii-san\Desktop\JacobSmetanaCSTest1\JacobSmetanaTest1A\JacobSmetanaTest1A\obj\Debug\JacobSmetanaTest1A.csproj.CoreCompileInputs.cache
+C:\Users\Nii-san\Desktop\JacobSmetanaCSTest1\JacobSmetanaTest1A\JacobSmetanaTest1A\obj\Debug\JacobSmetanaTest1A.exe
+C:\Users\Nii-san\Desktop\JacobSmetanaCSTest1\JacobSmetanaTest1A\JacobSmetanaTest1A\obj\Debug\JacobSmetanaTest1A.pdb

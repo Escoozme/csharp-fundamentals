@@ -1,0 +1,10 @@
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture8\Mod8LectureStarter\Mod8LectureStarter\bin\Debug\Mod8LectureStarter.exe.config
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture8\Mod8LectureStarter\Mod8LectureStarter\bin\Debug\Mod8LectureStarter.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture8\Mod8LectureStarter\Mod8LectureStarter\bin\Debug\Mod8LectureStarter.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture8\Mod8LectureStarter\Mod8LectureStarter\obj\Debug\Mod8LectureStarter.csprojAssemblyReference.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture8\Mod8LectureStarter\Mod8LectureStarter\obj\Debug\Mod8LectureStarter.frmMain.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture8\Mod8LectureStarter\Mod8LectureStarter\obj\Debug\Mod8LectureStarter.Properties.Resources.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture8\Mod8LectureStarter\Mod8LectureStarter\obj\Debug\Mod8LectureStarter.csproj.GenerateResource.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture8\Mod8LectureStarter\Mod8LectureStarter\obj\Debug\Mod8LectureStarter.csproj.CoreCompileInputs.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture8\Mod8LectureStarter\Mod8LectureStarter\obj\Debug\Mod8LectureStarter.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture8\Mod8LectureStarter\Mod8LectureStarter\obj\Debug\Mod8LectureStarter.pdb

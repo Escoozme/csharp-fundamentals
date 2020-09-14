@@ -1,0 +1,20 @@
+C:\Users\kwiganowski\Desktop\Lecture6\Lecture7\obj\Debug\Lecture6.csprojResolveAssemblyReference.cache
+C:\Users\kwiganowski\Desktop\Lecture6\Lecture7\obj\Debug\Lecture7.frmMain.resources
+C:\Users\kwiganowski\Desktop\Lecture6\Lecture7\obj\Debug\Lecture7.Properties.Resources.resources
+C:\Users\kwiganowski\Desktop\Lecture6\Lecture7\obj\Debug\Lecture6.csproj.GenerateResource.Cache
+C:\Users\kwiganowski\Desktop\Lecture6\Lecture7\obj\Debug\Lecture6.csproj.CoreCompileInputs.cache
+C:\Users\kwiganowski\Desktop\Lecture6\Lecture7\obj\Debug\Lecture7.exe
+C:\Users\kwiganowski\Desktop\Lecture6\Lecture7\obj\Debug\Lecture7.pdb
+C:\Users\kwiganowski\Desktop\Lecture6\Lecture7\bin\Debug\Lecture7.exe.config
+C:\Users\kwiganowski\Desktop\Lecture6\Lecture7\bin\Debug\Lecture7.exe
+C:\Users\kwiganowski\Desktop\Lecture6\Lecture7\bin\Debug\Lecture7.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture6\Lecture6_v2\Lecture7\bin\Debug\Lecture7.exe.config
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture6\Lecture6_v2\Lecture7\bin\Debug\Lecture7.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture6\Lecture6_v2\Lecture7\bin\Debug\Lecture7.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture6\Lecture6_v2\Lecture7\obj\Debug\Lecture6.csprojAssemblyReference.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture6\Lecture6_v2\Lecture7\obj\Debug\Lecture7.frmMain.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture6\Lecture6_v2\Lecture7\obj\Debug\Lecture7.Properties.Resources.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture6\Lecture6_v2\Lecture7\obj\Debug\Lecture6.csproj.GenerateResource.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture6\Lecture6_v2\Lecture7\obj\Debug\Lecture6.csproj.CoreCompileInputs.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture6\Lecture6_v2\Lecture7\obj\Debug\Lecture7.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture6\Lecture6_v2\Lecture7\obj\Debug\Lecture7.pdb

@@ -1,0 +1,10 @@
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureLoops\mod4lectureLoops\bin\Debug\mod4lectureLoops.exe.config
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureLoops\mod4lectureLoops\bin\Debug\mod4lectureLoops.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureLoops\mod4lectureLoops\bin\Debug\mod4lectureLoops.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureLoops\mod4lectureLoops\obj\Debug\mod4lectureLoops.csprojAssemblyReference.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureLoops\mod4lectureLoops\obj\Debug\mod4lectureLoops.frmMain.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureLoops\mod4lectureLoops\obj\Debug\mod4lectureLoops.Properties.Resources.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureLoops\mod4lectureLoops\obj\Debug\mod4lectureLoops.csproj.GenerateResource.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureLoops\mod4lectureLoops\obj\Debug\mod4lectureLoops.csproj.CoreCompileInputs.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureLoops\mod4lectureLoops\obj\Debug\mod4lectureLoops.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureLoops\mod4lectureLoops\obj\Debug\mod4lectureLoops.pdb

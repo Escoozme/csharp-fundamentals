@@ -1,0 +1,10 @@
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureFileStreams\mod4lectureFileStreams\bin\Debug\mod4lectureFileStreams.exe.config
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureFileStreams\mod4lectureFileStreams\bin\Debug\mod4lectureFileStreams.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureFileStreams\mod4lectureFileStreams\bin\Debug\mod4lectureFileStreams.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureFileStreams\mod4lectureFileStreams\obj\Debug\mod4lectureFileStreams.csprojAssemblyReference.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureFileStreams\mod4lectureFileStreams\obj\Debug\mod4lectureFileStreams.frmMain.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureFileStreams\mod4lectureFileStreams\obj\Debug\mod4lectureFileStreams.Properties.Resources.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureFileStreams\mod4lectureFileStreams\obj\Debug\mod4lectureFileStreams.csproj.GenerateResource.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureFileStreams\mod4lectureFileStreams\obj\Debug\mod4lectureFileStreams.csproj.CoreCompileInputs.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureFileStreams\mod4lectureFileStreams\obj\Debug\mod4lectureFileStreams.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture4\mod4lectureFileStreams\mod4lectureFileStreams\obj\Debug\mod4lectureFileStreams.pdb

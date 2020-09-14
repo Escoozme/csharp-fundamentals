@@ -1,0 +1,10 @@
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Tests\JacobSmetanaCSTest2\JacobSmetanaTest2A\JacobSmetanaTest2A\bin\Debug\JacobSmetanaTest2A.exe.config
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Tests\JacobSmetanaCSTest2\JacobSmetanaTest2A\JacobSmetanaTest2A\bin\Debug\JacobSmetanaTest2A.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Tests\JacobSmetanaCSTest2\JacobSmetanaTest2A\JacobSmetanaTest2A\bin\Debug\JacobSmetanaTest2A.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Tests\JacobSmetanaCSTest2\JacobSmetanaTest2A\JacobSmetanaTest2A\obj\Debug\JacobSmetanaTest2A.csprojAssemblyReference.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Tests\JacobSmetanaCSTest2\JacobSmetanaTest2A\JacobSmetanaTest2A\obj\Debug\JacobSmetanaTest2A.frmMain.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Tests\JacobSmetanaCSTest2\JacobSmetanaTest2A\JacobSmetanaTest2A\obj\Debug\JacobSmetanaTest2A.Properties.Resources.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Tests\JacobSmetanaCSTest2\JacobSmetanaTest2A\JacobSmetanaTest2A\obj\Debug\JacobSmetanaTest2A.csproj.GenerateResource.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Tests\JacobSmetanaCSTest2\JacobSmetanaTest2A\JacobSmetanaTest2A\obj\Debug\JacobSmetanaTest2A.csproj.CoreCompileInputs.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Tests\JacobSmetanaCSTest2\JacobSmetanaTest2A\JacobSmetanaTest2A\obj\Debug\JacobSmetanaTest2A.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Tests\JacobSmetanaCSTest2\JacobSmetanaTest2A\JacobSmetanaTest2A\obj\Debug\JacobSmetanaTest2A.pdb

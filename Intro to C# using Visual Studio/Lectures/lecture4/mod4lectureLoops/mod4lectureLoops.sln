@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mod4lectureLoops", "mod4lectureLoops\mod4lectureLoops.csproj", "{D41ABF40-7FAC-43E8-BA14-10EA3A532682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D41ABF40-7FAC-43E8-BA14-10EA3A532682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41ABF40-7FAC-43E8-BA14-10EA3A532682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41ABF40-7FAC-43E8-BA14-10EA3A532682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41ABF40-7FAC-43E8-BA14-10EA3A532682}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30256C37-BD79-4407-A80F-5EA3FD4A6767}
+	EndGlobalSection
+EndGlobal

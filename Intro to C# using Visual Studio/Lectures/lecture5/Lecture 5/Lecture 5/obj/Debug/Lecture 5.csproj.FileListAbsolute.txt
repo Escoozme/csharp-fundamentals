@@ -1,0 +1,30 @@
+C:\Users\kwilganowski\Desktop\Lecture 5\Lecture 5\bin\Debug\Lecture 5.exe.config
+C:\Users\kwilganowski\Desktop\Lecture 5\Lecture 5\bin\Debug\Lecture 5.exe
+C:\Users\kwilganowski\Desktop\Lecture 5\Lecture 5\bin\Debug\Lecture 5.pdb
+C:\Users\kwilganowski\Desktop\Lecture 5\Lecture 5\obj\Debug\Lecture 5.csprojResolveAssemblyReference.cache
+C:\Users\kwilganowski\Desktop\Lecture 5\Lecture 5\obj\Debug\Lecture_5.frmMain.resources
+C:\Users\kwilganowski\Desktop\Lecture 5\Lecture 5\obj\Debug\Lecture_5.Properties.Resources.resources
+C:\Users\kwilganowski\Desktop\Lecture 5\Lecture 5\obj\Debug\Lecture 5.csproj.GenerateResource.Cache
+C:\Users\kwilganowski\Desktop\Lecture 5\Lecture 5\obj\Debug\Lecture 5.csproj.CoreCompileInputs.cache
+C:\Users\kwilganowski\Desktop\Lecture 5\Lecture 5\obj\Debug\Lecture 5.exe
+C:\Users\kwilganowski\Desktop\Lecture 5\Lecture 5\obj\Debug\Lecture 5.pdb
+C:\Users\kwiganowski\Desktop\Lecture 5\Lecture 5\bin\Debug\Lecture 5.exe.config
+C:\Users\kwiganowski\Desktop\Lecture 5\Lecture 5\bin\Debug\Lecture 5.exe
+C:\Users\kwiganowski\Desktop\Lecture 5\Lecture 5\bin\Debug\Lecture 5.pdb
+C:\Users\kwiganowski\Desktop\Lecture 5\Lecture 5\obj\Debug\Lecture 5.csprojResolveAssemblyReference.cache
+C:\Users\kwiganowski\Desktop\Lecture 5\Lecture 5\obj\Debug\Lecture_5.frmMain.resources
+C:\Users\kwiganowski\Desktop\Lecture 5\Lecture 5\obj\Debug\Lecture_5.Properties.Resources.resources
+C:\Users\kwiganowski\Desktop\Lecture 5\Lecture 5\obj\Debug\Lecture 5.csproj.GenerateResource.Cache
+C:\Users\kwiganowski\Desktop\Lecture 5\Lecture 5\obj\Debug\Lecture 5.csproj.CoreCompileInputs.cache
+C:\Users\kwiganowski\Desktop\Lecture 5\Lecture 5\obj\Debug\Lecture 5.exe
+C:\Users\kwiganowski\Desktop\Lecture 5\Lecture 5\obj\Debug\Lecture 5.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture5\Lecture 5\Lecture 5\bin\Debug\Lecture 5.exe.config
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture5\Lecture 5\Lecture 5\bin\Debug\Lecture 5.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture5\Lecture 5\Lecture 5\bin\Debug\Lecture 5.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture5\Lecture 5\Lecture 5\obj\Debug\Lecture 5.csprojAssemblyReference.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture5\Lecture 5\Lecture 5\obj\Debug\Lecture_5.frmMain.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture5\Lecture 5\Lecture 5\obj\Debug\Lecture_5.Properties.Resources.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture5\Lecture 5\Lecture 5\obj\Debug\Lecture 5.csproj.GenerateResource.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture5\Lecture 5\Lecture 5\obj\Debug\Lecture 5.csproj.CoreCompileInputs.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture5\Lecture 5\Lecture 5\obj\Debug\Lecture 5.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture5\Lecture 5\Lecture 5\obj\Debug\Lecture 5.pdb

@@ -1,0 +1,10 @@
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 3 Making Decisions & Planning\JacobSmetana3B\JacobSmetana3B\bin\Debug\JacobSmetana3B.exe.config
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 3 Making Decisions & Planning\JacobSmetana3B\JacobSmetana3B\bin\Debug\JacobSmetana3B.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 3 Making Decisions & Planning\JacobSmetana3B\JacobSmetana3B\bin\Debug\JacobSmetana3B.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 3 Making Decisions & Planning\JacobSmetana3B\JacobSmetana3B\obj\Debug\JacobSmetana3B.csprojAssemblyReference.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 3 Making Decisions & Planning\JacobSmetana3B\JacobSmetana3B\obj\Debug\JacobSmetana3B.frmMain.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 3 Making Decisions & Planning\JacobSmetana3B\JacobSmetana3B\obj\Debug\JacobSmetana3B.Properties.Resources.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 3 Making Decisions & Planning\JacobSmetana3B\JacobSmetana3B\obj\Debug\JacobSmetana3B.csproj.GenerateResource.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 3 Making Decisions & Planning\JacobSmetana3B\JacobSmetana3B\obj\Debug\JacobSmetana3B.csproj.CoreCompileInputs.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 3 Making Decisions & Planning\JacobSmetana3B\JacobSmetana3B\obj\Debug\JacobSmetana3B.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 3 Making Decisions & Planning\JacobSmetana3B\JacobSmetana3B\obj\Debug\JacobSmetana3B.pdb

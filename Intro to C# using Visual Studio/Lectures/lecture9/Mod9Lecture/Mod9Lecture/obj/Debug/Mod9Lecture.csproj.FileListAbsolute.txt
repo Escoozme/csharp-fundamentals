@@ -1,0 +1,12 @@
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture9\Mod9Lecture\Mod9Lecture\bin\Debug\Mod9Lecture.exe.config
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture9\Mod9Lecture\Mod9Lecture\bin\Debug\Mod9Lecture.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture9\Mod9Lecture\Mod9Lecture\bin\Debug\Mod9Lecture.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture9\Mod9Lecture\Mod9Lecture\obj\Debug\Mod9Lecture.csprojAssemblyReference.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture9\Mod9Lecture\Mod9Lecture\obj\Debug\Mod9Lecture.frmAbout.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture9\Mod9Lecture\Mod9Lecture\obj\Debug\Mod9Lecture.frmMain.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture9\Mod9Lecture\Mod9Lecture\obj\Debug\Mod9Lecture.frmTwo.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture9\Mod9Lecture\Mod9Lecture\obj\Debug\Mod9Lecture.Properties.Resources.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture9\Mod9Lecture\Mod9Lecture\obj\Debug\Mod9Lecture.csproj.GenerateResource.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture9\Mod9Lecture\Mod9Lecture\obj\Debug\Mod9Lecture.csproj.CoreCompileInputs.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture9\Mod9Lecture\Mod9Lecture\obj\Debug\Mod9Lecture.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Lectures\lecture9\Mod9Lecture\Mod9Lecture\obj\Debug\Mod9Lecture.pdb

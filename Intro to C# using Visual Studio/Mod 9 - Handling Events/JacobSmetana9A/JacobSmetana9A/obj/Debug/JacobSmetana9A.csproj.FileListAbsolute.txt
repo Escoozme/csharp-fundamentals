@@ -1,0 +1,14 @@
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 9 - Handling Events\JacobSmetana9A\JacobSmetana9A\bin\Debug\JacobSmetana9A.exe.config
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 9 - Handling Events\JacobSmetana9A\JacobSmetana9A\bin\Debug\JacobSmetana9A.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 9 - Handling Events\JacobSmetana9A\JacobSmetana9A\bin\Debug\JacobSmetana9A.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 9 - Handling Events\JacobSmetana9A\JacobSmetana9A\obj\Debug\JacobSmetana9A.csprojAssemblyReference.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 9 - Handling Events\JacobSmetana9A\JacobSmetana9A\obj\Debug\JacobSmetana9A.frmMain.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 9 - Handling Events\JacobSmetana9A\JacobSmetana9A\obj\Debug\JacobSmetana9A.Properties.Resources.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 9 - Handling Events\JacobSmetana9A\JacobSmetana9A\obj\Debug\JacobSmetana9A.csproj.GenerateResource.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 9 - Handling Events\JacobSmetana9A\JacobSmetana9A\obj\Debug\JacobSmetana9A.csproj.CoreCompileInputs.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 9 - Handling Events\JacobSmetana9A\JacobSmetana9A\obj\Debug\JacobSmetana9A.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 9 - Handling Events\JacobSmetana9A\JacobSmetana9A\obj\Debug\JacobSmetana9A.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 9 - Handling Events\JacobSmetana9A\JacobSmetana9A\obj\Debug\JacobSmetana9A.frmAbout.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 9 - Handling Events\JacobSmetana9A\JacobSmetana9A\obj\Debug\JacobSmetana9A.frmMovie1.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 9 - Handling Events\JacobSmetana9A\JacobSmetana9A\obj\Debug\JacobSmetana9A.frmMovie2.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 9 - Handling Events\JacobSmetana9A\JacobSmetana9A\obj\Debug\JacobSmetana9A.frmMovie3.resources

@@ -1,0 +1,10 @@
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture3\lecture3\bin\Debug\lecture3.exe.config
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture3\lecture3\bin\Debug\lecture3.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture3\lecture3\bin\Debug\lecture3.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture3\lecture3\obj\Debug\lecture3.csprojAssemblyReference.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture3\lecture3\obj\Debug\lecture3.frmMain.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture3\lecture3\obj\Debug\lecture3.Properties.Resources.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture3\lecture3\obj\Debug\lecture3.csproj.GenerateResource.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture3\lecture3\obj\Debug\lecture3.csproj.CoreCompileInputs.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture3\lecture3\obj\Debug\lecture3.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\lecture3\lecture3\obj\Debug\lecture3.pdb

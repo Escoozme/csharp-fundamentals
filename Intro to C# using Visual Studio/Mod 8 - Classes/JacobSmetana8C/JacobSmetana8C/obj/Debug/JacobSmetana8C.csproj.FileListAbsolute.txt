@@ -1,0 +1,10 @@
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 8 - Classes\JacobSmetana8C\JacobSmetana8C\bin\Debug\JacobSmetana8C.exe.config
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 8 - Classes\JacobSmetana8C\JacobSmetana8C\bin\Debug\JacobSmetana8C.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 8 - Classes\JacobSmetana8C\JacobSmetana8C\bin\Debug\JacobSmetana8C.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 8 - Classes\JacobSmetana8C\JacobSmetana8C\obj\Debug\JacobSmetana8C.csprojAssemblyReference.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 8 - Classes\JacobSmetana8C\JacobSmetana8C\obj\Debug\JacobSmetana8C.frmMain.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 8 - Classes\JacobSmetana8C\JacobSmetana8C\obj\Debug\JacobSmetana8C.Properties.Resources.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 8 - Classes\JacobSmetana8C\JacobSmetana8C\obj\Debug\JacobSmetana8C.csproj.GenerateResource.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 8 - Classes\JacobSmetana8C\JacobSmetana8C\obj\Debug\JacobSmetana8C.csproj.CoreCompileInputs.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 8 - Classes\JacobSmetana8C\JacobSmetana8C\obj\Debug\JacobSmetana8C.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Mod 8 - Classes\JacobSmetana8C\JacobSmetana8C\obj\Debug\JacobSmetana8C.pdb

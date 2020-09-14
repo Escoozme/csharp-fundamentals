@@ -1,0 +1,10 @@
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 4 Loops, Files & Streams\JacobSmetana4A\JacobSmetana4A\bin\Debug\JacobSmetana4A.exe.config
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 4 Loops, Files & Streams\JacobSmetana4A\JacobSmetana4A\bin\Debug\JacobSmetana4A.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 4 Loops, Files & Streams\JacobSmetana4A\JacobSmetana4A\bin\Debug\JacobSmetana4A.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 4 Loops, Files & Streams\JacobSmetana4A\JacobSmetana4A\obj\Debug\JacobSmetana4A.csprojAssemblyReference.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 4 Loops, Files & Streams\JacobSmetana4A\JacobSmetana4A\obj\Debug\JacobSmetana4A.frmMain.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 4 Loops, Files & Streams\JacobSmetana4A\JacobSmetana4A\obj\Debug\JacobSmetana4A.Properties.Resources.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 4 Loops, Files & Streams\JacobSmetana4A\JacobSmetana4A\obj\Debug\JacobSmetana4A.csproj.GenerateResource.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 4 Loops, Files & Streams\JacobSmetana4A\JacobSmetana4A\obj\Debug\JacobSmetana4A.csproj.CoreCompileInputs.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 4 Loops, Files & Streams\JacobSmetana4A\JacobSmetana4A\obj\Debug\JacobSmetana4A.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 4 Loops, Files & Streams\JacobSmetana4A\JacobSmetana4A\obj\Debug\JacobSmetana4A.pdb

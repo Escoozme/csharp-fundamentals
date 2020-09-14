@@ -1,0 +1,10 @@
+C:\Users\Nii-san\Desktop\lecture2\lecture2\bin\Debug\lecture2.exe.config
+C:\Users\Nii-san\Desktop\lecture2\lecture2\bin\Debug\lecture2.exe
+C:\Users\Nii-san\Desktop\lecture2\lecture2\bin\Debug\lecture2.pdb
+C:\Users\Nii-san\Desktop\lecture2\lecture2\obj\Debug\lecture2.csprojAssemblyReference.cache
+C:\Users\Nii-san\Desktop\lecture2\lecture2\obj\Debug\lecture2.frmMain.resources
+C:\Users\Nii-san\Desktop\lecture2\lecture2\obj\Debug\lecture2.Properties.Resources.resources
+C:\Users\Nii-san\Desktop\lecture2\lecture2\obj\Debug\lecture2.csproj.GenerateResource.cache
+C:\Users\Nii-san\Desktop\lecture2\lecture2\obj\Debug\lecture2.csproj.CoreCompileInputs.cache
+C:\Users\Nii-san\Desktop\lecture2\lecture2\obj\Debug\lecture2.exe
+C:\Users\Nii-san\Desktop\lecture2\lecture2\obj\Debug\lecture2.pdb

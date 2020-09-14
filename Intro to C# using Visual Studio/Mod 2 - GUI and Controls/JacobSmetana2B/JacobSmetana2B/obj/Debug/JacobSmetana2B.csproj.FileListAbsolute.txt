@@ -1,0 +1,10 @@
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 2 GUI and Controls\JacobSmetana2B\JacobSmetana2B\bin\Debug\JacobSmetana2B.exe.config
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 2 GUI and Controls\JacobSmetana2B\JacobSmetana2B\bin\Debug\JacobSmetana2B.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 2 GUI and Controls\JacobSmetana2B\JacobSmetana2B\bin\Debug\JacobSmetana2B.pdb
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 2 GUI and Controls\JacobSmetana2B\JacobSmetana2B\obj\Debug\JacobSmetana2B.csprojAssemblyReference.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 2 GUI and Controls\JacobSmetana2B\JacobSmetana2B\obj\Debug\JacobSmetana2B.frmMain.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 2 GUI and Controls\JacobSmetana2B\JacobSmetana2B\obj\Debug\JacobSmetana2B.Properties.Resources.resources
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 2 GUI and Controls\JacobSmetana2B\JacobSmetana2B\obj\Debug\JacobSmetana2B.csproj.GenerateResource.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 2 GUI and Controls\JacobSmetana2B\JacobSmetana2B\obj\Debug\JacobSmetana2B.csproj.CoreCompileInputs.cache
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 2 GUI and Controls\JacobSmetana2B\JacobSmetana2B\obj\Debug\JacobSmetana2B.exe
+E:\Users\Computer\Desktop\2020 Summer\Intro to C# using Visual Studio\Module 2 GUI and Controls\JacobSmetana2B\JacobSmetana2B\obj\Debug\JacobSmetana2B.pdb
